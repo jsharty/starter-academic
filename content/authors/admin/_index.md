@@ -10,8 +10,7 @@ role: Doctoral Canditate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Chicago
-  Crown Family School of Social Work, Policy, and Practice
+- name: University of Chicago Crown Family School of Social Work, Policy, and Practice
   url: https://crownschool.uchicago.edu/justin-harty-doctoral-student
 
 # Short bio (displayed in user profile at end of posts)
