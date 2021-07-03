@@ -36,7 +36,7 @@ education:
   - course: BA in Sociology and Philosophy
     institution: University of Illinois at Urbana-Champaign College of Liberal Arts and Science
     year: 2011
-   - course: AA in General Studies
+  - course: AA in General Studies
     institution: William Rainey Harper College
     year: 2008
 
