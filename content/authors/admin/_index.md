@@ -1,38 +1,43 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Justin S. Harty, MSW, LCSW
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Doctoral Canditate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Chicago Crown Family School of Social Work, Policy, and Practice
+  url: https://crownschool.uchicago.edu/justin-harty-doctoral-student
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include young fathers aging out of the foster care system and Black contributions to social work history.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fathers in Foster Care
+- Fatherhood
+- Child Welfare
+- Black Social Work History
+- Qualitative Research Methods
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Social Work
+    institution: University of Chicago Crown Family School of Social Work, Policy, and Practice
+    year: 2022 (expected)
+  - course: MSW in Social Work
+    institution: University of Illinois at Chicago Jane Addams College of Social Work
+    year: 2013
+  - course: BA in Sociology and Philosophy
+    institution: University of Illinois at Urbana-Champaign College of Liberal Arts and Science
+    year: 2011
+   - course: AA in General Studies
+    institution: William Rainey Harper College
     year: 2008
 
 # Social/Academic Networking
@@ -42,19 +47,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:justinharty@uchicago.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/JustinSHarty
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/justinharty/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Justin-Harty-2
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=uXKeZIMAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-2770-6869
+- icon: cv
+  icon_pack: ai
+  link: uploads/Harty-CV-2021_05.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +81,10 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Justin Harty is a doctoral candidate at the University of Chicago School of Social Service Administration. He earned bachelor's degrees in both sociology and philosophy from the University of Illinois at Urbana-Champaign in 2011. He received his master's of social work, with a concentration in children and families, from the Jane Addams College of Social Work at the University of Illinois at Chicago in 2013. After earning a master's degree, he worked for three years as a foster care worker in Chicago, Illinois. He is a licensed clinical social worker serving child welfare involved fathers and provides father-focused trainings to child welfare, foster care, and family strengthening agencies around father involvement and engagement. He is currently a lecturer at University of Chicago Crown Family School of Social Work, Policy, and Practice teaching Human Behavior in the Social Environment as well as Poverty, Inequality, and the Welfare State. He has previously taught Introduction to Social Work Research at the University of Pennsylvania's School of Social Policy and Practice and Critical Social Work in a Multicultural Society at University of Illinois at Chicago Jane Addams College of Social Work.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Harty's research interests include the outcomes and preparedness of young fathers aging out of the foster care system, father engagement in child welfare services, and father-related social services in the history of the social work profession. His current research examines ways to better serve fathers in home visiting, child welfare, and foster care settings. He is currently conducting his qualitative dissertation research on the experiences and needs of young Black fathers in foster care as they leave state care and transition to independent adulthood and early fatherhood. He also conducts historical research on Black contributions to mutual aid, social welfare, and social work history. He is currently working on archiving this rich history to help students and faculty better integrate the history of Black social workers into their curriculum.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Harty is the project coordinator and research assistant on the California Youth Transitions to Adulthood Study (CalYOUTH) leveraging longitudinal youth and worker surveys as well as child welfare and publicly available administrative data to examine the impact of extended foster care among transition-aged foster youth in California. He is also a research assistant on the Dads Matter-HV study using quantitative and qualitative data along with agency-level administrative data to test a father-focused intervention enhancement to home visiting services in Chicago, Illinois. He is the principal investigator of the Daddy Doula study preparing to pilot an intervention targeting low-income and vulnerable fathers through a father-focused enhancement to existing community-based doula services Chicago, Illinois.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Harty-CV-2021_05.pdf" "newtab" >}}CV{{< /staticref >}}.
