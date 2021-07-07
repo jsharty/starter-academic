@@ -81,14 +81,12 @@ email: ""
 highlight_name: false
 ---
 
-{{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}}
-
+{{< spoiler text="Click to view expanded bio" >}}
 Justin Harty is a doctoral candidate at the University of Chicago School of Social Service Administration. He earned bachelor's degrees in both sociology and philosophy from the University of Illinois at Urbana-Champaign in 2011. He received his master's of social work, with a concentration in children and families, from the Jane Addams College of Social Work at the University of Illinois at Chicago in 2013. After earning a master's degree, he worked for three years as a foster care worker in Chicago, Illinois. He is a licensed clinical social worker serving child welfare involved fathers and provides father-focused trainings to child welfare, foster care, and family strengthening agencies around father involvement and engagement. He is currently a lecturer at University of Chicago Crown Family School of Social Work, Policy, and Practice teaching Human Behavior in the Social Environment as well as Poverty, Inequality, and the Welfare State. He has previously taught Introduction to Social Work Research at the University of Pennsylvania's School of Social Policy and Practice and Critical Social Work in a Multicultural Society at University of Illinois at Chicago Jane Addams College of Social Work.
 
 Harty's research interests include the outcomes and preparedness of young fathers aging out of the foster care system, father engagement in child welfare services, and father-related social services in the history of the social work profession. His current research examines ways to better serve fathers in home visiting, child welfare, and foster care settings. He is currently conducting his qualitative dissertation research on the experiences and needs of young Black fathers in foster care as they leave state care and transition to independent adulthood and early fatherhood. He also conducts historical research on Black contributions to mutual aid, social welfare, and social work history. He is currently working on archiving this rich history to help students and faculty better integrate the history of Black social workers into their curriculum.
 
 Harty is the project coordinator and research assistant on the California Youth Transitions to Adulthood Study (CalYOUTH) leveraging longitudinal youth and worker surveys as well as child welfare and publicly available administrative data to examine the impact of extended foster care among transition-aged foster youth in California. He is also a research assistant on the Dads Matter-HV study using quantitative and qualitative data along with agency-level administrative data to test a father-focused intervention enhancement to home visiting services in Chicago, Illinois. He is the principal investigator of the Daddy Doula study preparing to pilot an intervention targeting low-income and vulnerable fathers through a father-focused enhancement to existing community-based doula services Chicago, Illinois.
+{{< /spoiler >}}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Harty-CV-2021_05.pdf" "newtab" >}}CV{{< /staticref >}}.
