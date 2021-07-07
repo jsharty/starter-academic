@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021"
+  date_start: "2021-01-01"
   description: ""
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
   organization_url: ""
