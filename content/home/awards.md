@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 2006
+date_format: Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,11 +23,11 @@ date_format: 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
+- test_url: "test.com"
   date_end: ""
-  date_start: "2021"
+  date_start: "2021-01-01"
   description: ""
-  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
+  organization: University of Chicago Crown Family School of Social Work
   organization_url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
   title: Simons Doctoral Student Teaching Award
   url: ""
