@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
+  date_start: "2021-00-00"
   description: ""
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
   organization_url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
