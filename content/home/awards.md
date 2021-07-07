@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "https://test.com"
+- certificate_url: ""
   date_end: ""
   date_start: "2021-01-01"
   description: ""
   organization: University of Chicago Crown Family School of Social Work
-  organization_url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
+  organization_url: https://crownschool.uchicago.edu
   title: Simons Doctoral Student Teaching Award
-  url: ""
+  url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
