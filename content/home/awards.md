@@ -28,7 +28,7 @@ item:
   date_start: "2021-01-01"
   description: ""
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
-  organization_url: ""
+  organization_url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
   title: Simons Doctoral Student Teaching Award
   url: ""
 - certificate_url: https://www.edx.org
