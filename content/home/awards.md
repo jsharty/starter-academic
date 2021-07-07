@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-00-00"
+  date_start: "2021"
   description: ""
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
   organization_url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
