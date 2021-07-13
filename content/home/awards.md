@@ -27,16 +27,16 @@ item:
   date_end: ""
   date_start: "2021-01-01"
   description: ""
-  organization: University of Chicago Crown Family School of Social Work
-  organization_url: https://crownschool.uchicago.edu
+  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
+  organization_url: ""
   title: Simons Doctoral Student Teaching Award
   url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
 - certificate_url: ""
   date_end: ""
   date_start: "2020-01-01"
   description: ""
-  organization: University of Chicago Crown Family School of Social Work
-  organization_url: https://crownschool.uchicago.edu
+  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
+  organization_url: ""
   title: W. Allison Davis Research Award
   url: https://crownschool.uchicago.edu/allison-davis-research-award-recipients
 
