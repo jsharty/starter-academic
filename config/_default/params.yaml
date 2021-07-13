@@ -33,18 +33,18 @@ coordinates:
   latitude: ''
   longitude: ''
 directions: ''
-office_hours:
-  - ''
-  - ''
+office_hours: ''
+  # - ''
+  # - ''
 appointment_url: 'https://calendly.com/justinharty'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Direct message me
     link: 'https://twitter.com/JustinSHarty'
   - icon: linkedin
     icon_pack: fab
-    name: Message Me
+    name: Message me
     link: 'https://www.linkedin.com/in/justinharty/'
 
 # Site header
