@@ -50,8 +50,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
-  description: P.I. Justin S. Harty – ”Daddy Doula Father-Focused Enhancements to Existing Community-
-based Doula Services,” Conference and workshops held at the University of Chicago, Chicago, IL, October 19-21.
+  description: P.I. Justin S. Harty. ”Daddy Doula: Father-Focused Enhancements to Existing Community-based Doula Services,” Conference and workshops held at the University of Chicago, Chicago, IL, October 19-21.
   organization: Funded by the Clinton Foundation (Conference and workshop accommodation)
   organization_url: ""
   title: Clinton Global Initiative University
