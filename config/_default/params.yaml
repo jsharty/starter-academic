@@ -22,11 +22,11 @@ twitter: ''
 
 email: justinharty@uchicago.edu
 phone: 217-418-9759
-address: ''
+address:
   street:
   city:
   region: 
-  postcode: ''
+  postcode:
   country:
   country_code:
 coordinates:
