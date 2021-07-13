@@ -25,7 +25,7 @@ date_format: 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021"
+  date_start: "2021-01-01"
   description: ""
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
   organization_url: ""
@@ -33,7 +33,7 @@ item:
   url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
 - certificate_url: ""
   date_end: ""
-  date_start: "2020"
+  date_start: "2020-01-01"
   description: ""
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
   organization_url: ""
@@ -41,7 +41,7 @@ item:
   url: https://crownschool.uchicago.edu/allison-davis-research-award-recipients
 - certificate_url: ""
   date_end: ""
-  date_start: "2019"
+  date_start: "2019-01-01"
   description: ""
   organization: American Psychological Association
   organization_url: ""
@@ -49,7 +49,7 @@ item:
   url: https://www.apadivisions.org/division-37/awards/section-dissertation?tab=4
 - certificate_url: ""
   date_end: ""
-  date_start: "2018"
+  date_start: "2018-01-01"
   description: ""
   organization: Clinton Foundation
   organization_url: ""
