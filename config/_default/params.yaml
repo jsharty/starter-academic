@@ -29,7 +29,7 @@ address:
   postcode: '60637'
   country: United States
   country_code: US
- coordinates:
+coordinates:
   latitude: ''
   longitude: ''
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
