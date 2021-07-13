@@ -24,7 +24,7 @@ date_format: "2006"
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end:
+  date_end: "2022-01-01"
   date_start: "2019-01-01"
   description: Supports SAMHSA's mission to increase racial/ethnic minority individuals who are trained to work with underrepresented and underserved persons with or at risk for mental health and/or substance abuse disorders.
   organization: Funded by the Substance Abuse and Mental Health Services Administration ($75,000)
