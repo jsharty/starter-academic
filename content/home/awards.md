@@ -39,7 +39,22 @@ item:
   organization_url: ""
   title: W. Allison Davis Research Award
   url: https://crownschool.uchicago.edu/allison-davis-research-award-recipients
-
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019"
+  description: ""
+  organization: American Psychological Association
+  organization_url: ""
+  title: American Psychological Association Dissertation Award
+  url: https://www.apadivisions.org/division-37/awards/section-dissertation?tab=4
+  - certificate_url: ""
+  date_end: ""
+  date_start: "2018"
+  description: ""
+  organization: Clinton Foundation
+  organization_url: ""
+  title: Clinton Global Initiative University
+  url: ""
 design:
   columns: '2' 
 ---
