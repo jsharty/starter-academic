@@ -48,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:justinharty@uchicago.edu'
+- icon: university
+  icon_pack: fas
+  link: https://crownschool.uchicago.edu/justin-harty-doctoral-student
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JustinSHarty
