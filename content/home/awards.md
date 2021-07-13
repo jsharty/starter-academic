@@ -27,31 +27,32 @@ item:
   date_end: ""
   date_start: "2021-01-01"
   description: The University of Chicago Crown Simons Doctoral Student Teaching Award recognizes and honors PhD students who have demonstrated outstanding teaching and instruction in the master’s program. Winners are selected each year based on the instructor’s contributions to the development of inclusive pedagogy in social work education and to a classroom that promotes critical thinking, advances knowledge, and supports students’ academic and professional development.
-  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
+  organization: Funded by the Crown Family School of Social Work, Policy, and Practice ($1,000 monetary prize)
   organization_url: ""
   title: Simons Doctoral Student Teaching Award
   url: https://crownschool.uchicago.edu/congratulations-our-students-and-class-2021
 - certificate_url: ""
   date_end: ""
   date_start: "2020-01-01"
-  description: ""
-  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
+  description: Awarded to doctoral students conducting research on issues related to those Dr. W. Allison Davis studied throughout his life such as systems of stratification and segregation between and within racial and ethnic groups in the United States as well as related effects on family life, language use, educational attainment, and the development of personality and character of children and adolescents in American minority groups.
+  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice; Funded by the Andrew W. Mellon Foundation ($4,900 for dissertation research)
   organization_url: ""
   title: W. Allison Davis Research Award
   url: https://crownschool.uchicago.edu/allison-davis-research-award-recipients
 - certificate_url: ""
   date_end: ""
   date_start: "2019-01-01"
-  description: ""
-  organization: American Psychological Association
+  description: Awarded annually to doctoral students whose dissertations concern the issue of childmaltreatment that best exemplifies the mission of the Society for Child and Family Policy and Practice. Received under APA’s Division 37 Society for Child Family Policy and Practice, Section 1 Child Maltreatment.
+  organization: Funded by the American Psychological Association ($400 for dissertation research)
   organization_url: ""
   title: American Psychological Association Dissertation Award
   url: https://www.apadivisions.org/division-37/awards/section-dissertation?tab=4
 - certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
-  description: ""
-  organization: Clinton Foundation
+  description: P.I.: Justin S. Harty: ”Daddy Doula: Father-Focused Enhancements to Existing Community-
+based Doula Services,” Conference and workshops held at the University of Chicago, Chicago, IL, October 19-21.
+  organization: Funded by the Clinton Foundation (Conference and workshop accommodation)
   organization_url: ""
   title: Clinton Global Initiative University
   url: ""
