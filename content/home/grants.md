@@ -39,7 +39,7 @@ item:
   organization_url: ""
   title: University of Chicago Urban Doctoral Fellow
   url:https://miurban.uchicago.edu/urbandocfellows-2/
-  - certificate_url: ""
+- certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
   description: Provides a three-day intensive research workshop focused on addressing child maltreatment  through research, community collaboration, and policy action. Workshop held at the Hebrew University at Mt. Scopus, Jerusalem, Israel, December 11-13.
