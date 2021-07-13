@@ -46,7 +46,7 @@ item:
   organization: American Psychological Association
   organization_url: ""
   title: American Psychological Association Dissertation Award
-  url: https://www.apadivisions.org/division-37/awards/section-dissertation
+  url: https://www.apadivisions.org/division-37/awards/section-dissertation?tab=4
 - certificate_url: ""
   date_end: ""
   date_start: "2018"
