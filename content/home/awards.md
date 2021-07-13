@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2020-01-01"
   description: Awarded to doctoral students conducting research on issues related to those Dr. W. Allison Davis studied throughout his life such as systems of stratification and segregation between and within racial and ethnic groups in the United States as well as related effects on family life, language use, educational attainment, and the development of personality and character of children and adolescents in American minority groups.
-  organization: University of Chicago Crown Family School of Social Work, Policy, and Practice; Funded by the Andrew W. Mellon Foundation ($4,900 for dissertation research)
+  organization: Funded by the University of Chicago Crown Family School of Social Work, Policy, and Practice & the Andrew W. Mellon Foundation ($4,900 for dissertation research)
   organization_url: ""
   title: W. Allison Davis Research Award
   url: https://crownschool.uchicago.edu/allison-davis-research-award-recipients
