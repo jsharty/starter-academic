@@ -22,13 +22,13 @@ twitter: ''
 
 email: justinharty@uchicago.edu
 phone: 217-418-9759
-address:
-  street: 969 East 60th Street
-  city: Chicago
-  region: IL
-  postcode: '60637'
-  country: United States
-  country_code: US
+address: ''
+  street:
+  city:
+  region: 
+  postcode: ''
+  country:
+  country_code:
 coordinates:
   latitude: ''
   longitude: ''
