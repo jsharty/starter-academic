@@ -26,7 +26,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2021-01-01"
-  description: {{< spoiler text="Click for award details" >}} The University of Chicago Crown Simons Doctoral Student Teaching Award recognizes and honors PhD students who have demonstrated outstanding teaching and instruction in the master’s program. Winners are selected each year based on the instructor’s contributions to the development of inclusive pedagogy in social work education and to a classroom that promotes critical thinking, advances knowledge, and supports students’ academic and professional development.
+  description: The University of Chicago Crown Simons Doctoral Student Teaching Award recognizes and honors PhD students who have demonstrated outstanding teaching and instruction in the master’s program. Winners are selected each year based on the instructor’s contributions to the development of inclusive pedagogy in social work education and to a classroom that promotes critical thinking, advances knowledge, and supports students’ academic and professional development.
   organization: University of Chicago Crown Family School of Social Work, Policy, and Practice
   organization_url: ""
   title: Simons Doctoral Student Teaching Award
