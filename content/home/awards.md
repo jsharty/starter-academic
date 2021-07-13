@@ -55,6 +55,7 @@ item:
   organization_url: ""
   title: Clinton Global Initiative University
   url: ""
+  
 design:
   columns: '2' 
 ---
