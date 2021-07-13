@@ -42,7 +42,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2019-01-01"
-  description: Awarded annually to doctoral students whose dissertations concern the issue of childmaltreatment that best exemplifies the mission of the Society for Child and Family Policy and Practice. Received under APA’s Division 37 Society for Child Family Policy and Practice, Section 1 Child Maltreatment.
+  description: Awarded annually to doctoral students whose dissertations concern the issue of child maltreatment that best exemplifies the mission of the Society for Child and Family Policy and Practice. Received under APA’s Division 37 Society for Child Family Policy and Practice, Section 1 Child Maltreatment.
   organization: Funded by the American Psychological Association ($400 for dissertation research)
   organization_url: ""
   title: American Psychological Association Dissertation Award
@@ -50,7 +50,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
-  description: P.I.: Justin S. Harty: ”Daddy Doula: Father-Focused Enhancements to Existing Community-
+  description: P.I. Justin S. Harty: ”Daddy Doula: Father-Focused Enhancements to Existing Community-
 based Doula Services,” Conference and workshops held at the University of Chicago, Chicago, IL, October 19-21.
   organization: Funded by the Clinton Foundation (Conference and workshop accommodation)
   organization_url: ""
