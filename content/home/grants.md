@@ -38,7 +38,7 @@ item:
   organization: Funded by the Mansueto Institute for Urban Innovation ($1,000 for conference travel)
   organization_url: ""
   title: University of Chicago Urban Doctoral Fellow
-  url:https://miurban.uchicago.edu/urbandocfellows-2/
+  url: https://miurban.uchicago.edu/urbandocfellows-2/
 - certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
@@ -46,7 +46,7 @@ item:
   organization: Funded by Charles and Lynn Schusterman Family Foundation (Travel grant and accommodation)
   organization_url: ""
   title: Haruv Institute's 6th International Workshop on Child Maltreatment
-  url:https://haruv.org.il/en/inter-activ/courses-and-training/the-fifth-international-workshop-for-doctoral-students-the-haruv-institute/
+  url: https://haruv.org.il/en/inter-activ/courses-and-training/the-fifth-international-workshop-for-doctoral-students-the-haruv-institute/
 - certificate_url: ""
   date_end: ""
   date_start: "2018-01-01"
@@ -54,7 +54,7 @@ item:
   organization: Funded by the Eunice Kennedy Shriver National Institute of Child Health & Human Development (Travel grant and accommodation)
   organization_url: ""
   title: Fragile Families Summer Data Workshop
-  url:https://fragilefamilies.princeton.edu/people/summer-data-workshop/2018-workshop
+  url: https://fragilefamilies.princeton.edu/people/summer-data-workshop/2018-workshop
 - certificate_url: ""
   date_end: "2013-01-01"
   date_start: "2012-01-01"
