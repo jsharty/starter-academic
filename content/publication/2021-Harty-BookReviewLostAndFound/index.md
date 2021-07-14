@@ -27,7 +27,7 @@ publication_types: ["2"]
 publication: Social Service Review, 95(2), 358-364.
 publication_short: ""
 
-abstract: (Book Review) Book review of 'Lost and Found - Young Fathers in the Age of Unwed Parenthood.' By Paul Florsheim and David Moore. New York: Oxford University Press, 2020. Pp. 432. $29.95 (cloth).
+abstract: (Book Review) Book review of 'Lost and Found - Young Fathers in the Age of Unwed Parenthood.' By Paul Florsheim and David Moore. Oxford University Press, 2020. Pp. 432. $29.95 (cloth).
 
 # Summary. An optional shortened abstract.
 summary: ""
