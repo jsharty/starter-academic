@@ -145,6 +145,43 @@
 - id: book_appointment
   translation: Book an appointment
 
+# Talks
+
+- id: talk_organizedtalk
+  translation: Organized talk
+  
+- id: talk_organizedpanel
+  translation: Organized panel
+  
+- id: talk_organizedtraining
+  translation: Organized training
+  
+- id: talk_invitedtalk
+  translation: Invited talk
+  
+- id: talk_invitedpanel
+  translation: Invited panel
+  
+- id: talk_invitedtraining
+  translation: Invited training
+
+# Conferences
+
+- id: conf_presentation
+  translation: Conference presentation
+  
+- id: conf_workshop
+  translation: Conference workshop
+  
+- id: conf_roundtable
+  translation: Conference roundtable
+  
+- id: conf_organizer
+  translation: Conference symposium organizer
+  
+- id: conf_discussant
+  translation: Conference symposium discussant 
+
 # Publication/Event details
 
 - id: abstract
@@ -164,21 +201,6 @@
 
 - id: event
   translation: Event
-  
-- id: conf_presentation
-  translation: Conference presentation
-  
-- id: conf_workshop
-  translation: Conference workshop
-  
-- id: conf_roundtable
-  translation: Conference roundtable
-  
-- id: conf_organizer
-  translation: Conference symposium organizer
-  
-- id: conf_discussant
-  translation: Conference symposium discussant 
 
 - id: location
   translation: Location
