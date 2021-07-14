@@ -28,7 +28,7 @@ publication_types: ["6"]
 publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (In Chapter 6, Child and Family Engagement in Child Welfare Practice, pp. 166-167)
 publication_short: ""
 
-abstract: [Book Chapter Research Brief]
+abstract: (Book Chapter Research Brief)
 
 # Summary. An optional shortened abstract.
 summary: ""
