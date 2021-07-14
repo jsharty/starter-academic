@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Justin S. Harty, MSW, LCSW
+title: Justin S. Harty
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Canditate
+role: Doctoral Canditate, Licensed Clinical Social Worker
 
 # Organizations/Affiliations to show in About widget
 organizations:
