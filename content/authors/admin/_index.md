@@ -71,7 +71,7 @@ social:
   link: https://orcid.org/0000-0002-2770-6869
 - icon: cv
   icon_pack: ai
-  link: uploads/Harty-CV-2021_05.pdf
+  link: uploads/Harty-CV.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
