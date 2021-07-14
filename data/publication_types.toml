@@ -31,5 +31,4 @@ types = [ "talk_organizedtalk",
           "pub_dissertation",
           "pub_bibliography",
           "pub_patent"
-          "pub_patent"
         ]
