@@ -1,5 +1,5 @@
 ---
-title: "Pregnant and Parenting Foster Youth"
+title: "Pregnant and parenting foster youth"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
