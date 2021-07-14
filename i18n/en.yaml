@@ -148,39 +148,39 @@
 # Talks
 
 - id: talk_organizedtalk
-  translation: Organized talk
+  translation: Organized Talk
   
 - id: talk_organizedpanel
-  translation: Organized panel
+  translation: Organized Panel
   
 - id: talk_organizedtraining
-  translation: Organized training
+  translation: Organized Training
   
 - id: talk_invitedtalk
-  translation: Invited talk
+  translation: Invited Talk
   
 - id: talk_invitedpanel
-  translation: Invited panel
+  translation: Invited Panel
   
 - id: talk_invitedtraining
-  translation: Invited training
+  translation: Invited Training
 
 # Conferences
 
 - id: conf_presentation
-  translation: Conference presentation
+  translation: Conference Presentation
   
 - id: conf_workshop
-  translation: Conference workshop
+  translation: Conference Workshop
   
 - id: conf_roundtable
-  translation: Conference roundtable
+  translation: Conference Roundtable
   
 - id: conf_organizer
-  translation: Conference symposium organizer
+  translation: Conference Symposium Organizer
   
 - id: conf_discussant
-  translation: Conference symposium discussant 
+  translation: Conference Symposium Discussant 
 
 # Publication/Event details
 
@@ -209,10 +209,10 @@
   translation: Uncategorized
 
 - id: pub_conf
-  translation: Conference paper
+  translation: Conference Paper
 
 - id: pub_journal
-  translation: Journal article
+  translation: Journal Article
 
 - id: pub_preprint
   translation: Preprint
@@ -224,10 +224,10 @@
   translation: Book
 
 - id: pub_book_chapter
-  translation: Book chapter
+  translation: Book Chapter
   
 - id: pub_book_section
-  translation: Book section
+  translation: Book Section
 
 - id: pub_thesis
   translation: Thesis
