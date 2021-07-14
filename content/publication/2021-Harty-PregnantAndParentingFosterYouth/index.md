@@ -1,5 +1,5 @@
 ---
-title: "Pregnant and Parenting Foster Youth [Book Chapter Research Brief]"
+title: "Pregnant and Parenting Foster Youth"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -27,7 +27,7 @@ publication_types: ["6"]
 publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (In Chapter 11, Special Populations in Child Welfare Practice, pp. 276-277)
 publication_short: ""
 
-abstract: Test
+abstract: [Book Chapter Research Brief]
 
 # Summary. An optional shortened abstract.
 summary: ""
