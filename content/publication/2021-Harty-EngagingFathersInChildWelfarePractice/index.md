@@ -1,5 +1,5 @@
 ---
-title: "Engaging Fathers in Child Welfare Practice [Book Chapter Research Brief]"
+title: "Engaging Fathers in Child Welfare Practice"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,7 +28,7 @@ publication_types: ["6"]
 publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (In Chapter 6, Child and Family Engagement in Child Welfare Practice, pp. 166-167)
 publication_short: ""
 
-abstract: Test
+abstract: [Book Chapter Research Brief]
 
 # Summary. An optional shortened abstract.
 summary: ""
