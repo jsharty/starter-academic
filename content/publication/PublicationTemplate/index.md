@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Handbook on Child Welfare Practice (Editors: Jennifer M. Geiger & Lisa A. Schelbe)
+publication: In Handbook on Child Welfare Practice (Editors - Jennifer M. Geiger & Lisa A. Schelbe)
 publication_short: ""
 
 abstract: Test
