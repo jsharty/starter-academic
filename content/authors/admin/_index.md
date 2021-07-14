@@ -84,7 +84,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 I am a doctoral candidate at the University of Chicago Crown Family School of Social Work, Policy, and Practice. I earned bachelor's degrees in both sociology and philosophy from the University of Illinois at Urbana-Champaign in 2011. I received my master's of social work, with a concentration in children and families, from the Jane Addams College of Social Work at the University of Illinois at Chicago in 2013. After earning a master's degree, I worked for three years as a foster care worker in Chicago, Illinois. I am a licensed clinical social worker serving child welfare involved fathers and provide father-focused trainings to child welfare, foster care, and family strengthening agencies around father involvement and engagement. I am currently a lecturer at the University of Chicago Crown Family School of Social Work, Policy, and Practice teaching courses on Human Behavior in the Social Environment as well as Poverty, Inequality, and the Welfare State. I have previously taught Introduction to Social Work Research at the University of Pennsylvania's School of Social Policy and Practice and Critical Social Work in a Multicultural Society at University of Illinois at Chicago Jane Addams College of Social Work.
