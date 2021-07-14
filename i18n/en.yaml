@@ -228,6 +228,9 @@
   
 - id: pub_book_section
   translation: Book Section
+  
+- id: pub_book_review
+  translation: Book Review
 
 - id: pub_thesis
   translation: Thesis
