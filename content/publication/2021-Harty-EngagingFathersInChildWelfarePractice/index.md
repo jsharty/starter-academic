@@ -1,5 +1,5 @@
 ---
-title: "Engaging Fathers in Child Welfare Practice"
+title: "Engaging fathers in child welfare practice"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
