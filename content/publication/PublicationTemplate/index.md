@@ -12,7 +12,7 @@ author_notes:
 - ""
 
 date: "2021-01-01T00:00:00Z"
-doi: https://www.springer.com/gp/book/9783030739119
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -21,10 +21,10 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Handbook on Child Welfare Practice (Editors - Jennifer M. Geiger & Lisa A. Schelbe)
+publication: In Handbook on Child Welfare Practice (Jennifer M. Geiger & Lisa A. Schelbe)
 publication_short: ""
 
 abstract: Test
@@ -60,7 +60,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
