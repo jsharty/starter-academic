@@ -164,6 +164,21 @@
 
 - id: event
   translation: Event
+  
+- id: conf_presentation
+  translation: Conference presentation
+  
+- id: conf_workshop
+  translation: Conference workshop
+  
+- id: conf_roundtable
+  translation: Conference roundtable
+  
+- id: conf_organizer
+  translation: Conference symposium organizer
+  
+- id: conf_discussant
+  translation: Conference symposium discussant 
 
 - id: location
   translation: Location
@@ -186,11 +201,20 @@
 - id: pub_book
   translation: Book
 
+- id: pub_book_chapter
+  translation: Book chapter
+  
 - id: pub_book_section
   translation: Book section
 
 - id: pub_thesis
   translation: Thesis
+  
+- id: pub_dissertation
+  translation: Dissertation
+  
+- id: pub_bibliography
+  translation: Bibliography
 
 - id: pub_patent
   translation: Patent
