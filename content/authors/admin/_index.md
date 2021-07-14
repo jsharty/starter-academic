@@ -57,6 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/justinharty/
+- icon: lightbulb
+  icon_pack: fas
+  link: https://www.prof2prof.com/users/justin-s-harty
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Justin-Harty-2
