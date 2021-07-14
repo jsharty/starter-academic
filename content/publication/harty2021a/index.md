@@ -12,7 +12,7 @@ author_notes:
 - ""
 
 date: "2021-01-01T00:00:00Z"
-doi: ""
+doi: https://doi.org/10.1007/978-3-030-73912-6_11
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -24,7 +24,7 @@ publishDate: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (pp. 276-277)
+publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (In Chapter 11 Special Populations in Child Welfare Practice, pp. 276-277)
 publication_short: ""
 
 abstract: Test
@@ -43,7 +43,7 @@ featured: false
 #   url: http://example.org
 
 links:
-- name: Publisher
+- name: Springer
   url: https://www.springer.com/gp/book/9783030739119
 - name: WorldCat
   url: http://www.worldcat.org/oclc/1241732286
@@ -70,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Fatherhood
+- Expectant and Parenting Foster Youth
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
