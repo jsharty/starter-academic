@@ -1,1 +1,35 @@
-
+# Publication types.
+# Each item in the list corresponds to an item in the language packs.
+types = [ "talk_organizedtalk",
+          "talk_organizedtalk",
+          "talk_organizedpanel",
+          "talk_organizedtraining",
+          "talk_invitedtalk",
+          "talk_invitedpanel",
+          "talk_invitedtraining",
+          "conf_presentation",
+          "conf_workshop",
+          "conf_roundtable",
+          "conf_organizer",
+          "conf_discussant",
+          "abstract",
+          "publication",
+          "publication_type",
+          "date",
+          "last_updated",
+          "event",
+          "location",
+          "pub_uncat",
+          "pub_conf",
+          "pub_journal",
+          "pub_preprint",
+          "pub_report",
+          "pub_book",
+          "pub_book_chapter",
+          "pub_book_section",
+          "pub_thesis",
+          "pub_dissertation",
+          "pub_bibliography",
+          "pub_patent"
+          "pub_patent"
+        ]
