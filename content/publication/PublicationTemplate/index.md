@@ -1,5 +1,5 @@
 ---
-title: "Pregnant and Parenting Foster Youth (Book Chapter Section)"
+title: "Pregnant and Parenting Foster Youth [Book Chapter Section]"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,10 +9,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Test (Editors)"
+- ""
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2021-01-01T00:00:00Z"
+doi: https://www.springer.com/gp/book/9783030739119
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
@@ -21,10 +21,10 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: Handbook on Child Welfare Practice
+publication: In Handbook on Child Welfare Practice (Editors: Jennifer M. Geiger & Lisa A. Schelbe)
 publication_short: ""
 
 abstract: Test
@@ -41,6 +41,10 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
+
+links:
+- name: Publisher
+  url: https://www.springer.com/gp/book/9783030739119
 
 url_pdf: ''
 url_code: ''
