@@ -22,10 +22,32 @@ doi: https://doi.org/10.1007/s10566-016-9373-y
 publishDate: ""
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# 0 talk_organizedtalk
+# 1 talk_organizedtalk
+# 2 talk_organizedpanel
+# 3 talk_organizedtraining
+# 4 talk_invitedtalk
+# 5 talk_invitedpanel
+# 6 talk_invitedtraining
+# 7 conf_presentation
+# 8 conf_workshop
+# 9 conf_roundtable
+# 10 conf_organizer
+# 11 conf_discussant
+# 12 pub_uncat
+# 13 pub_conf
+# 14 pub_journal
+# 15 pub_preprint
+# 16 pub_report
+# 17 pub_book
+# 18 pub_book_chapter
+# 19 pub_book_section
+# 20 pub_thesis
+# 21 pub_dissertation
+# 22 pub_bibliography
+# 23 pub_patent
+
+publication_types: ["14"]
 
 # Publication name and optional abbreviated publication name.
 publication: Child & Youth Care Forum, 46(2), 223-242.
