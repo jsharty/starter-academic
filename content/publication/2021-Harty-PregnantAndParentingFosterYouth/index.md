@@ -27,7 +27,7 @@ publication_types: ["6"]
 publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (In Chapter 11, Special Populations in Child Welfare Practice, pp. 276-277)
 publication_short: ""
 
-abstract: [Book Chapter Research Brief]
+abstract: **Book Chapter Research Brief.**
 
 # Summary. An optional shortened abstract.
 summary: ""
