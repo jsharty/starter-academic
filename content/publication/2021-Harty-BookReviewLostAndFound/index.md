@@ -1,5 +1,5 @@
 ---
-title: "Book Review of 'Lost and found - Young fathers in the age of unwed parenthood.' By Paul Florsheim and David Moore)"
+title: "Book Review of 'Lost and found - Young fathers in the age of unwed parenthood.' By Paul Florsheim and David Moore"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -18,21 +18,42 @@ doi: https://doi.org/10.1086/714553
 publishDate: ""
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# 1=talk_organizedtalk
+# 2=talk_organizedpanel
+# 3=talk_organizedtraining
+# 4=talk_invitedtalk
+# 5=talk_invitedpanel
+# 6=talk_invitedtraining
+# 7=conf_presentation
+# 8=conf_workshop
+# 9=conf_roundtable
+# 10=conf_organizer
+# 11=conf_discussant
+# 12=pub_uncat
+# 13=pub_conf
+# 14=pub_journal
+# 15=pub_preprint
+# 16=pub_report
+# 17=pub_book
+# 18=pub_book_chapter
+# 19=pub_book_section
+# 20=pub_book_review
+# 21=pub_thesis
+# 22=pub_dissertation
+# 23=pub_bibliography
+# 24=pub_patent
+publication_types: ["20"]
 
 # Publication name and optional abbreviated publication name.
 publication: Social Service Review, 95(2), 358-364.
 publication_short: ""
 
-abstract: (Book Review) Book review of 'Lost and Found - Young Fathers in the Age of Unwed Parenthood.' By Paul Florsheim and David Moore. Oxford University Press, 2020. Pp. 432. $29.95 (cloth).
+abstract: Book review of 'Lost and Found - Young Fathers in the Age of Unwed Parenthood.' By Paul Florsheim and David Moore. Oxford University Press, 2020. Pp. 432. $29.95 (cloth).
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Young Fathers]
+tags: [Young Black Fathers]
 
 # Display this page in the Featured widget?
 featured: false
@@ -56,7 +77,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
