@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Justin S. Harty
+name: JSH
 
 # Is this the primary user of the site?
 superuser: true
