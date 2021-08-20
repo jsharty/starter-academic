@@ -7,7 +7,7 @@ name: JSH
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Canditate, Licensed Clinical Social Worker
+role: Doctoral Canditate <br> Licensed Clinical Social Worker
 
 # Organizations/Affiliations to show in About widget
 organizations:
