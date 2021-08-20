@@ -12,11 +12,15 @@ design:
 ---
 ## Peer Reviewed Journal Articles
 The protective effects of religious beliefs on behavioral health factors among low income African American adolescents in Chicago.
+
 Dong Ha Kim, Justin Harty, Lois Takahashi & Dexter R. Voisin
+
 Journal of Child and Family Studies, 27, 355–364, 2018
+
 {{< spoiler text="Click to view the spoiler" >}}
 You found me!
 {{< /spoiler >}}
+
 links:
-- name: Web of Science Highly Cited Paper
-  url: ''
+- name: Springer
+  url: https://www.springer.com/gp/book/9783030739119
