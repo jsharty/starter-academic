@@ -61,7 +61,7 @@ summary: ""
 tags: [Black Adolescents]
 
 # Display this page in the Featured widget?
-featured: false
+featured: yes
 
 # Custom links (uncomment lines below)
 # links:
