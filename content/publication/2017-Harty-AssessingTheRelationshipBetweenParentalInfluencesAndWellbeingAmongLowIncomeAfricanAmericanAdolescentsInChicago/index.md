@@ -53,12 +53,12 @@ publication_types: ["14"]
 publication: Child & Youth Care Forum, 46(2), 223-242.
 publication_short: ""
 
-abstract: (Peer Review Journal Article) African American youth in urban centers often reside in poorly resourced communities and face structural disadvantage, which can result in higher rates of poor behavioral health factors such as mental health problems, juvenile justice system involvement, substance use, risky sex and lower school engagement. While parental monitoring has been shown to be protective with regards to these risk factors, less understood are the effects of parental warmth in conjunction with monitoring.
+abstract: African American youth in urban centers often reside in poorly resourced communities and face structural disadvantage, which can result in higher rates of poor behavioral health factors such as mental health problems, juvenile justice system involvement, substance use, risky sex and lower school engagement. While parental monitoring has been shown to be protective with regards to these risk factors, less understood are the effects of parental warmth in conjunction with monitoring.
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [African American Adolescents]
+tags: [Black Adolescents]
 
 # Display this page in the Featured widget?
 featured: false
@@ -82,7 +82,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
