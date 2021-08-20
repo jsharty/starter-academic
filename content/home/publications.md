@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: true
+headless: false
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Publications
@@ -17,4 +17,6 @@ Journal of Child and Family Studies, 27, 355–364, 2018
 {{< spoiler text="Click to view the spoiler" >}}
 You found me!
 {{< /spoiler >}}
-doi = bobmarley.com
+links:
+- name: Web of Science Highly Cited Paper
+  url: ''
