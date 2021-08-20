@@ -18,16 +18,37 @@ doi: https://doi.org/10.1007/978-3-030-73912-6_11
 publishDate: ""
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+# 1=talk_organizedtalk
+# 2=talk_organizedpanel
+# 3=talk_organizedtraining
+# 4=talk_invitedtalk
+# 5=talk_invitedpanel
+# 6=talk_invitedtraining
+# 7=conf_presentation
+# 8=conf_workshop
+# 9=conf_roundtable
+# 10=conf_organizer
+# 11=conf_discussant
+# 12=pub_uncat
+# 13=pub_conf
+# 14=pub_journal
+# 15=pub_preprint
+# 16=pub_report
+# 17=pub_book
+# 18=pub_book_chapter
+# 19=pub_book_section
+# 20=pub_book_review
+# 21=pub_thesis
+# 22=pub_dissertation
+# 23=pub_bibliography
+# 24=pub_patent
+publication_types: ["19"]
 
 # Publication name and optional abbreviated publication name.
 publication: In Jennifer M. Geiger & Lisa A. Schelbe (Authors), Handbook on Child Welfare Practice (In Chapter 11, Special Populations in Child Welfare Practice, pp. 276-277)
 publication_short: ""
 
-abstract: (Book Chapter Research Brief)
+abstract: This chapter describes how to work with special populations involved with the child welfare system (e.g., youth in care; children with disabilities; lesbian, gay, bisexual, transgender, or queer/questioning [LGBTQ] youth; immigrant or refugee children) to ensure professionals work collaboratively alongside them to ensure their voice is heard and, that as practitioners, child welfare professionals are providing optimal services to ensure child and family well-being. The chapter also discusses best practices when working with siblings and youth experiencing human and sex trafficking.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -43,6 +64,8 @@ featured: false
 #   url: http://example.org
 
 links:
+- name: DOI
+  url: https://link.springer.com/chapter/10.1007%2F978-3-030-73912-6_11
 - name: Springer
   url: https://www.springer.com/gp/book/9783030739119
 - name: WorldCat
