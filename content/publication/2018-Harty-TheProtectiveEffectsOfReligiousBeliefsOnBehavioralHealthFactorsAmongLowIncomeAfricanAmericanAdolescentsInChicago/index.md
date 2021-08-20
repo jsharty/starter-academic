@@ -21,16 +21,37 @@ doi: https://doi.org/10.1007/s10826-017-0891-5
 publishDate: ""
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# 1=talk_organizedtalk
+# 2=talk_organizedpanel
+# 3=talk_organizedtraining
+# 4=talk_invitedtalk
+# 5=talk_invitedpanel
+# 6=talk_invitedtraining
+# 7=conf_presentation
+# 8=conf_workshop
+# 9=conf_roundtable
+# 10=conf_organizer
+# 11=conf_discussant
+# 12=pub_uncat
+# 13=pub_conf
+# 14=pub_journal
+# 15=pub_preprint
+# 16=pub_report
+# 17=pub_book
+# 18=pub_book_chapter
+# 19=pub_book_section
+# 20=pub_book_review
+# 21=pub_thesis
+# 22=pub_dissertation
+# 23=pub_bibliography
+# 24=pub_patent
+publication_types: ["14"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal Of Child And Family Studies, 27(2), 355-364.
 publication_short: ""
 
-abstract: (Peer Review Journal Article) Religious involvement has long been argued to have protective effects for negative behavioral health outcomes for vulnerable youth. This study builds on the existing resilience literature and need for more studies that examine protective factors associated with behavioral health. A sample of 638 low-income African American adolescents in Chicago to examine within group variations of the influence of religious involvement on delinquency, school engagement, substance use and sexual risk behaviors, and whether such relationships differ by gender, sexual orientation, and socioeconomic status. Logistic regression findings documented that greater religious involvement was protective with regards to lower rates of delinquency, drug use, risky sexual behaviors and higher rates of school engagement, and that gender, sexual orientation and socioeconomic status varied for several of these relationships. Overall findings are discussed with regards to future research.
+abstract: Religious involvement has long been argued to have protective effects for negative behavioral health outcomes for vulnerable youth. This study builds on the existing resilience literature and need for more studies that examine protective factors associated with behavioral health. A sample of 638 low-income African American adolescents in Chicago to examine within group variations of the influence of religious involvement on delinquency, school engagement, substance use and sexual risk behaviors, and whether such relationships differ by gender, sexual orientation, and socioeconomic status. Logistic regression findings documented that greater religious involvement was protective with regards to lower rates of delinquency, drug use, risky sexual behaviors and higher rates of school engagement, and that gender, sexual orientation and socioeconomic status varied for several of these relationships. Overall findings are discussed with regards to future research.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -38,7 +59,7 @@ summary: ""
 tags: [African American Adolescents]
 
 # Display this page in the Featured widget?
-featured: false
+featured: yes
 
 # Custom links (uncomment lines below)
 # links:
@@ -59,7 +80,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
