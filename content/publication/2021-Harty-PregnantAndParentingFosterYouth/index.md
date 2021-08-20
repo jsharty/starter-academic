@@ -64,8 +64,6 @@ featured: false
 #   url: http://example.org
 
 links:
-- name: DOI
-  url: https://link.springer.com/chapter/10.1007%2F978-3-030-73912-6_11
 - name: Springer
   url: https://www.springer.com/gp/book/9783030739119
 - name: WorldCat
@@ -85,7 +83,7 @@ url_video: ''
 image:
   caption: ''
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
